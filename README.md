@@ -1,1 +1,1 @@
-# HashTablesAndArrays
+# Algorithms design with examples
