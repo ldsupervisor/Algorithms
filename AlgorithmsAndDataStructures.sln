@@ -35,7 +35,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "graphs", "graphs", "{497529
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AStar", "graphs\AStar\AStar.csproj", "{24CB15D8-4453-0FEB-38B5-5AA90CC57A2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PermutationPalindromev2", "..\PermutationPalindromev2\PermutationPalindromev2.csproj", "{AFB0C6E1-0C7B-4115-98C7-250A54DC480E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PermutationPalindrome", "..\PermutationPalindromev2\PermutationPalindrome.csproj", "{AFB0C6E1-0C7B-4115-98C7-250A54DC480E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreadthFirstSearch", "graphs\BFS\BreadthFirstSearch.csproj", "{317B29A8-6FCC-4580-938B-6A203D5D3BB2}"
 EndProject
@@ -94,6 +94,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CancellationToken", "memoryManagement\CancellationToken\CancellationToken.csproj", "{82F95EFD-297E-4917-ACB0-8176831DC0C3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariableConversion", "basics\VariableConversion\VariableConversion.csproj", "{80747FA7-D995-437B-AF0A-961ADF1BBF0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DFSCharGrid", "graphs\DFSCharGrid\DFSCharGrid.csproj", "{EA51DAA4-D174-466B-A8EA-009B5CAA66AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -265,6 +267,10 @@ Global
 		{80747FA7-D995-437B-AF0A-961ADF1BBF0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80747FA7-D995-437B-AF0A-961ADF1BBF0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80747FA7-D995-437B-AF0A-961ADF1BBF0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA51DAA4-D174-466B-A8EA-009B5CAA66AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA51DAA4-D174-466B-A8EA-009B5CAA66AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA51DAA4-D174-466B-A8EA-009B5CAA66AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA51DAA4-D174-466B-A8EA-009B5CAA66AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -305,6 +311,7 @@ Global
 		{BA857841-624C-B6E2-38E6-E5FCC5FD0C9A} = {43EA6568-696E-4C10-97D3-37173C01E5F5}
 		{82F95EFD-297E-4917-ACB0-8176831DC0C3} = {43EA6568-696E-4C10-97D3-37173C01E5F5}
 		{80747FA7-D995-437B-AF0A-961ADF1BBF0A} = {7BBE4AB3-8DA5-4C6C-B1B7-22B7991CB5B2}
+		{EA51DAA4-D174-466B-A8EA-009B5CAA66AC} = {4975294B-ACE8-49C2-B217-0FCAD223D865}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {49AB45C8-355B-425D-B8B6-744B0FE7B77D}
