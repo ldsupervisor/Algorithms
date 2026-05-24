@@ -1,4 +1,6 @@
 ﻿// Stack initialization
+// Stack operations: Push, Pop, Peek, Contains, Count, Clear
+// Stack follows Last In First Out (LIFO) principle
 Stack<int> stack = new Stack<int>();
 
 // Adding elements to the stack (Push)
@@ -28,5 +30,3 @@ Console.WriteLine("The quantity of elements in stack " + stack.Count);
 // Clearing the stack
 stack.Clear();
 Console.WriteLine("\nStack after clearing " + stack.Count + " elementów");
-
-

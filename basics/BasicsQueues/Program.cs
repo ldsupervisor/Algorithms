@@ -1,5 +1,6 @@
 ﻿
 // Initialisation of queue of type int
+// Follows the First In First Out (FIFO) principle
 Queue<int> queue = new Queue<int>();
 
 // Adding elements to the queue (Enqueue)
