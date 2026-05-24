@@ -50,7 +50,7 @@ public class DFSGrid
 
     public void Start()
     {
-        Console.WriteLine("DFS from (0,4):");
-        DFS(grid, 0, 0);
+        Console.WriteLine("DFS from (0,1):");
+        DFS(grid, 0, 1);
     }
 }
